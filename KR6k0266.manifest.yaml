@@ -1,0 +1,369 @@
+canonical_identifier: bkk:krp/KR6k0266/v1
+canonical_location: https://kanripo.org/bkk/KR6k0266/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律含註戒本隨講別錄
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2251.xml
+    old_id: G104n2251
+  edition:
+    short: bkk
+editions:
+- short: 佛教
+  label: 佛教
+  source_xml_id: wit.orig
+- short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0266_000.yaml, hash: 'sha256:84a5ec2e41e5b8d9b3df11a1b9849f0db77a8b67a4668902a3c896803a674599'}
+  - {seq: 1, filename: KR6k0266_001.yaml, hash: 'sha256:ddc59951ef0fac87de8293d4ec28cef60b4fd8b2c07c17c18aac6ab804089c2d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0266_001.markers.yaml, hash: 'sha256:3cce58f927609eb121f285fa7543a82d2f082fa274d2a9d01541e8e72a45fc92'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 16664
+  label: 四分律含注戒本隨講別錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 一　余弘律之因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-3
+    span:
+    - body
+    - 503
+    - 503
+  label: 二　略述律學之派別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-4
+    span:
+    - body
+    - 1251
+    - 1251
+  label: 三　此土流傳之次第
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-5
+    span:
+    - body
+    - 1592
+    - 1592
+  label: 四　示今所宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-6
+    span:
+    - body
+    - 1628
+    - 1628
+  label: 一　創明圓體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-7
+    span:
+    - body
+    - 1854
+    - 1854
+  label: 二　包含精博
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-8
+    span:
+    - body
+    - 2459
+    - 2459
+  label: 五　此次講律之學程
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-9
+    span:
+    - body
+    - 2512
+    - 2512
+  label: 六　所用之教授法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-10
+    span:
+    - body
+    - 2718
+    - 2718
+  label: 七　問答遣疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-11
+    span:
+    - body
+    - 3384
+    - 3384
+  label: 八　未來之希望
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-12
+    span:
+    - body
+    - 4012
+    - 4012
+  label: 九　此次講解之程度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-13
+    span:
+    - body
+    - 4265
+    - 4265
+  label: 隨講別錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-14
+    span:
+    - body
+    - 4265
+    - 4265
+  label: 先講三名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-15
+    span:
+    - body
+    - 4498
+    - 4498
+  label: 講題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-16
+    span:
+    - body
+    - 4666
+    - 4666
+  label: 講人號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-17
+    span:
+    - body
+    - 4715
+    - 4715
+  label: 寫大科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-18
+    span:
+    - body
+    - 4781
+    - 4781
+  label: 先示大科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-19
+    span:
+    - body
+    - 4843
+    - 4843
+  label: 略述廣略二教之義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-20
+    span:
+    - body
+    - 5131
+    - 5131
+  label: 正講總序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-21
+    span:
+    - body
+    - 6335
+    - 6335
+  label: 廣教序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-22
+    span:
+    - body
+    - 6955
+    - 6955
+  label: 廣教正宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-23
+    span:
+    - body
+    - 6955
+    - 6955
+  label: 先以義通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-24
+    span:
+    - body
+    - 7464
+    - 7464
+  label: 波羅夷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-25
+    span:
+    - body
+    - 9766
+    - 9766
+  label: 僧殘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-26
+    span:
+    - body
+    - 11404
+    - 11404
+  label: 二不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-27
+    span:
+    - body
+    - 11569
+    - 11569
+  label: 三十捨墮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-28
+    span:
+    - body
+    - 14603
+    - 14603
+  label: 九十單提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-29
+    span:
+    - body
+    - 15641
+    - 15641
+  label: 四提舍尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-30
+    span:
+    - body
+    - 15739
+    - 15739
+  label: 眾式叉迦羅尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-31
+    span:
+    - body
+    - 15836
+    - 15836
+  label: 七滅諍法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-32
+    span:
+    - body
+    - 16391
+    - 16391
+  label: 衣有十種（附錄）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0266_G_001-mulu-33
+    span:
+    - body
+    - 16481
+    - 16481
+  label: 七佛略教
+  type: mulu
+  level: 1
+hash: sha256:ab222a6fb83ef46076b7b2fe9ba76b74a824d40a08c5d2fef6171a3390341394
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

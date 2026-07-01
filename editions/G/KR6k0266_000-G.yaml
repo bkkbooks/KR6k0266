@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0266/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律含註戒本隨講別錄
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2251.xml
+    old_id: G104n2251
+hash: sha256:84a5ec2e41e5b8d9b3df11a1b9849f0db77a8b67a4668902a3c896803a674599
