@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0266_000.yaml, hash: 'sha256:84a5ec2e41e5b8d9b3df11a1b9849f0db77a8b67a4668902a3c896803a674599'}
-  - {seq: 1, filename: KR6k0266_001.yaml, hash: 'sha256:ddc59951ef0fac87de8293d4ec28cef60b4fd8b2c07c17c18aac6ab804089c2d'}
+  - {seq: 1, filename: KR6k0266_001.yaml, hash: 'sha256:e7988fe15090624ff1a4947bb6c6ed86d8fe437c43db86576fca4552be64ec1a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0266_001.markers.yaml, hash: 'sha256:3cce58f927609eb121f285fa7543a82d2f082fa274d2a9d01541e8e72a45fc92'}
+  - {seq: 0, role: markers, filename: assets/KR6k0266_000.markers.yaml, hash: 'sha256:c0016bbf108d21b2dfec036a707e3e865f6f71f5cdf95f78838cc4108cc3865f'}
+  - {seq: 1, role: markers, filename: assets/KR6k0266_001.markers.yaml, hash: 'sha256:675e022a5a5c4c75bcf7a5cd3d5b247171bc210e8acf6fae84a25e17ff6c5c7e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -363,7 +364,4 @@ table_of_contents:
   label: 七佛略教
   type: mulu
   level: 1
-hash: sha256:ab222a6fb83ef46076b7b2fe9ba76b74a824d40a08c5d2fef6171a3390341394
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d74709688a893f9a58d940f0a0f442975f290c5b78ce3fb5ec1b6612e4a9f297
