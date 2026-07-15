@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0266/v1
 canonical_location: https://kanripo.org/bkk/KR6k0266/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 四分律含註戒本隨講別錄
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0266_000.yaml, hash: 'sha256:84a5ec2e41e5b8d9b3df11a1b9849f0db77a8b67a4668902a3c896803a674599'}
-  - {seq: 1, filename: KR6k0266_001.yaml, hash: 'sha256:e7988fe15090624ff1a4947bb6c6ed86d8fe437c43db86576fca4552be64ec1a'}
+  - {seq: 1, filename: KR6k0266_001.yaml, hash: 'sha256:0c8c8f97ab18583e71a3e8bdc0fbec53f05e671d44b0d4986212bdc3e4d70eb9'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0266_000.markers.yaml, hash: 'sha256:c0016bbf108d21b2dfec036a707e3e865f6f71f5cdf95f78838cc4108cc3865f'}
-  - {seq: 1, role: markers, filename: assets/KR6k0266_001.markers.yaml, hash: 'sha256:675e022a5a5c4c75bcf7a5cd3d5b247171bc210e8acf6fae84a25e17ff6c5c7e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0266_001.markers.yaml, hash: 'sha256:9f629368dfe3d6b7f7cdc2178c68888c1324027fa7e489e15fe3d440ff10efeb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -364,4 +364,7 @@ table_of_contents:
   label: 七佛略教
   type: mulu
   level: 1
-hash: sha256:d74709688a893f9a58d940f0a0f442975f290c5b78ce3fb5ec1b6612e4a9f297
+hash: sha256:847a0a73cbe4c3f96eacac1634a6629f02f0fe8775adc11eb443383a1f7246ff
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
